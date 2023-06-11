@@ -4,19 +4,19 @@
 <hr/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Yash-Goyal007" alt="kushal-khare-official" />
+<img src="https://komarev.com/ghpvc/?username=Yash-Goyal007" alt="Yash-Goyal007" />
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **BlockChain Development**
 
-- 👨‍💻 All of my projects are available at [**https://kushal.codes/**](https://kushal.codes/)
+- 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/Yash-Goyal007)
 
-- 💬 Ask me about **React, NodeJS and Ethereum**
+- 💬 Ask me about **React, NodeJS, MongoDB and Programming**
 
-- 📫 How to reach me: **kushalkhare.official@gmail.com**
+- 📫 How to reach me: **yashgoyalmrt1912@gmail.com**
 
-- 📄 Know about my experiences: [**Resume.pdf**](https://ik.imagekit.io/kushal/Portfolio/Resume_-_Kushal_Khare_tuy2IdvPW.pdf)
+- 📄 Know about my experiences: [**Resume.pdf**](https://drive.google.com/file/d/1wSuL6xpjIsYzxgBvyrABudLfiqsbzMCV/view?usp=sharing)
 
-- ⚡ Fun fact:  **I am into anime and Hip Hop**
+- ⚡ Fun fact:  **I am into Sitcoms and Volleyball**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/kushalcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushalcodes" height="30" width="40" /></a>
