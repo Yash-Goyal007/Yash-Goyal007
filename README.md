@@ -4,7 +4,7 @@
 <hr/>
 <br/>
 
-<img src="![](https://komarev.com/ghpvc/?username=Yash-Goyal007)" alt="kushal-khare-official" />
+<img src="https://komarev.com/ghpvc/?username=Yash-Goyal007" alt="kushal-khare-official" />
 
 - 🌱 I’m currently learning **DevOps**
 
