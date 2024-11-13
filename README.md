@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yash-Goyal007](https://github.com/Yash-Goyal007)
 
-- 💬 Ask me about **React, Node, MongoDB and Programming**
+- 💬 Ask me about **React, React Native, Node, MongoDB and Programming**
 
 - 📫 How to reach me **yashgoyalmrt1912@gmail.com**
 
