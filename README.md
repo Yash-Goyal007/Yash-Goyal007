@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashgoyalmrt1912@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wSuL6xpjIsYzxgBvyrABudLfiqsbzMCV/view](https://drive.google.com/file/d/1wSuL6xpjIsYzxgBvyrABudLfiqsbzMCV/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uYdv-sNaZUT3y1rKfjLkQtlWnlDeumWe/view](https://drive.google.com/file/d/1uYdv-sNaZUT3y1rKfjLkQtlWnlDeumWe/view)
 
 - ⚡ Fun fact **I am into Sitcoms and Volleyball.**
 
